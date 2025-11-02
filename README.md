@@ -56,8 +56,8 @@ local emergencyWhitelist = {
 
 ## 🎥 YouTube Video
 
-🎬 **Watch the showcase video:**  
-👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
+- 🎬 **Watch the showcase video:**  
+- 👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
 
 > *(Replace `YOUR_VIDEO_ID` with your actual YouTube video link once uploaded.)*
 
