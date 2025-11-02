@@ -1,15 +1,3 @@
-# 🚗 RV SCRIPTS – Seatbelt Script v1.0.0
-
-A realistic and optimized **seatbelt system** for FiveM that prevents players from exiting vehicles, adds realistic crash ejections, and includes automatic seatbelt fastening for emergency vehicles.
-
-Works with **ESX**, **QBCore**, **ox_lib**, and **Standalone** servers.  
-Lightweight, zero lag, and no server-side dependencies.
-
----
-
-## ⚙️ Features
-
-- `/seatbelt` command and **B key** to toggle seatbelt  
 - Prevents exiting the vehicle while seatbelt is on  
 - **Realistic ejection** through the windshield when crashing without a seatbelt  
 - **Emergency vehicles auto-fastened** (police, ambulance, firetruck)  
@@ -54,10 +42,12 @@ local emergencyWhitelist = {
   -- [`yourVehicleModel`] = true,
 }
 
+---
+
 ## 🎥 YouTube Video
 
-- 🎬 **Watch the showcase video:**  
-- 👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
+🎬 **Watch the showcase video:**  
+👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
 
 > *(Replace `YOUR_VIDEO_ID` with your actual YouTube video link once uploaded.)*
 
