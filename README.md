@@ -30,6 +30,13 @@
 
 ---
 
+## 🎥 YouTube Video
+
+🎬 **Watch the showcase video:**  
+👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
+
+---
+
 ## 🚓 Emergency Vehicles
 
 - Automatically fastens seatbelt for **police**, **ambulance**, and **firetruck** vehicles.  
@@ -42,12 +49,4 @@ local emergencyWhitelist = {
   -- [`yourVehicleModel`] = true,
 }
 
----
-
-## 🎥 YouTube Video
-
-🎬 **Watch the showcase video:**  
-👉 [Click here to watch on YouTube](https://www.youtube.com/watch?v=g6nKu7XgAFg)
-
-> *(Replace `YOUR_VIDEO_ID` with your actual YouTube video link once uploaded.)*
 
