@@ -1,3 +1,5 @@
+# 🚗 RV SCRIPTS – Seatbelt Script v1.0.0
+
 - Prevents exiting the vehicle while seatbelt is on  
 - **Realistic ejection** through the windshield when crashing without a seatbelt  
 - **Emergency vehicles auto-fastened** (police, ambulance, firetruck)  
